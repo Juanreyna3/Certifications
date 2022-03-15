@@ -1,6 +1,6 @@
 # Certifications
 
-## [IBM AI Engineering Professional (V2)](https://www.credly.com/badges/44d69357-fd1d-4c3d-b532-7e2632e7b3a3/public_url)
+## [IBM AI Engineering Professional Certificate (V2)](https://www.credly.com/badges/44d69357-fd1d-4c3d-b532-7e2632e7b3a3/public_url)
 - [IBM AI Engineering : Machine Learning with Python](https://www.credly.com/badges/14dd9dcd-ec29-484b-99c0-032ecfbdff44/public_url)
 - [IBM AI Engineering : Deep Learning with Neural Networks with Keras](https://www.credly.com/badges/31ee884b-33d2-4373-8c41-f34080bc2816/public_url)
 - [IBM AI Engineering : Deep Learning with TensorFlow](https://www.credly.com/badges/94f9fb88-2af6-46af-9f7f-2fc13288ace0/public_url)
